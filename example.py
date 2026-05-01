@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from src.KSKM import KSKM
+from KSKM import KSKM
 from sklearn.metrics import adjusted_rand_score
 
 # An illustrative example from paper (https://arxiv.org/pdf/2603.27417)
