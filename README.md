@@ -79,7 +79,7 @@ pip install numpy scipy scikit-learn numba gurobipy
 
 ```python
 import numpy as np
-from src.KSKM import KSKM
+from KSKM import KSKM
 
 # Data points to cluster
 data = np.array([...])  # shape (n, d)
